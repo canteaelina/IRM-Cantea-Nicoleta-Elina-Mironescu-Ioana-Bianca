@@ -708,11 +708,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf76c23060173254eb13725381997e73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DistanceController
-  target1: {fileID: 1968438983}
-  target2: {fileID: 1682595252}
+  target1: {fileID: 1373563842}
+  target2: {fileID: 2006034428}
   cactus1Animator: {fileID: 1968438984}
   cactus2Animator: {fileID: 1682595253}
-  attackDistance: 0.25
+  attackDistance: 2
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -1631,14 +1631,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: dog
+  mTrackableName: nemuritor
   mInitializedInEditor: 1
   mDataSetPath: 
-  mAspectRatio: 1.3279742
+  mAspectRatio: 1.3333334
   mImageTargetType: 3
   mWidth: 1
-  mHeight: 1.3279742
-  mRuntimeTexture: {fileID: 2800000, guid: 42e405fe63ffeb049ab22f98201e5289, type: 3}
+  mHeight: 1.3333334
+  mRuntimeTexture: {fileID: 2800000, guid: 281432dfb8a5eb545b730ae749690a57, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -1675,7 +1675,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 2006034427}
   mHiddenRoot: {fileID: 0}
-  mTargetName: dog
+  mTargetName: nemuritor
   mDatasetName: 
   mCastedBehaviour: {fileID: 2006034427}
   mMeshFilter: {fileID: 0}

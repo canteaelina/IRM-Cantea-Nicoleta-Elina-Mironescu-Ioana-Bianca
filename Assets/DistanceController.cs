@@ -8,7 +8,7 @@ public class DistanceController : MonoBehaviour
     public Animator cactus1Animator;
     public Animator cactus2Animator;
 
-    public float attackDistance = 0.25f;
+    public float attackDistance = 5f;
 
     void Update()
     {
